@@ -9,12 +9,13 @@
 /* ==========================================================================
    Base styles: opinionated defaults
    ========================================================================== */
-@import url('https://fonts.googleapis.com/css?family=Nanum+Myeongjo');
+@import url('https://fonts.googleapis.com/css?family=Nanum+Myeongjo|Major+Mono+Display');
 
 html {
     color: #222;
     font-size: 1em;
     line-height: 1.4;
+    color: white;
 }
 
 /*
@@ -105,12 +106,16 @@ textarea {
 
 section {
     margin: 60px;
+    border-bottom: 4px dotted black;
 }
 
 main {
     margin: auto;
     width: 80%;
     font-size: 18pt;
+}
+h1 {
+    font-family: 'Major Mono Display', monospace;
 }
 
 
