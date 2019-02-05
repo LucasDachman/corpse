@@ -15,7 +15,6 @@ html {
     color: #222;
     font-size: 1em;
     line-height: 1.4;
-    color: white;
 }
 
 /*
@@ -102,11 +101,12 @@ textarea {
 * {
     background-color: pink;
     font-family: 'Nanum Myeongjo', serif;
+    color: white;
 }
 
 section {
     margin: 60px;
-    border-bottom: 4px dotted black;
+    border-bottom: 4px dotted white;
 }
 
 main {
