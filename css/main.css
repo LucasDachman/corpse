@@ -9,7 +9,7 @@
 /* ==========================================================================
    Base styles: opinionated defaults
    ========================================================================== */
-@import url('https://fonts.googleapis.com/css?family=Nanum+Myeongjo');
+@import url('https://fonts.googleapis.com/css?family=Nanum+Myeongjo|Major+Mono+Display');
 
 html {
     color: #222;
@@ -112,6 +112,9 @@ main {
     margin: auto;
     width: 80%;
     font-size: 18pt;
+}
+h1 {
+    font-family: 'Major Mono Display', monospace;
 }
 
 
