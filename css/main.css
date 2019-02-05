@@ -106,6 +106,10 @@ textarea {
 
 section {
     margin: 60px;
+<<<<<<< HEAD
+=======
+    border-bottom: 3px dotted black;
+>>>>>>> b235276fbf27f7aa4d2cdd0a1da576a42afe1003
 }
 
 main {
