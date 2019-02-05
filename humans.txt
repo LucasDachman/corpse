@@ -4,10 +4,15 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+    Lucas Dachman -- Contributor
+    Abbie Rastatter -- Contributor
+    Ari Klebanov -- Contributor
+    Joanne Liu -- Contributor
+    Meriah MacKillip -- Contributor
 
 # THANKS
 
-    <name>
+    David Schaal
 
 # TECHNOLOGY COLOPHON
 
